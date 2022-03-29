@@ -1,0 +1,14 @@
+C:\C--Apps\QuotePackage\QuotePackage\obj\Debug\netcoreapp3.1\QuotePackage.csproj.AssemblyReference.cache
+C:\C--Apps\QuotePackage\QuotePackage\obj\Debug\netcoreapp3.1\QuotePackage.GeneratedMSBuildEditorConfig.editorconfig
+C:\C--Apps\QuotePackage\QuotePackage\obj\Debug\netcoreapp3.1\QuotePackage.AssemblyInfoInputs.cache
+C:\C--Apps\QuotePackage\QuotePackage\obj\Debug\netcoreapp3.1\QuotePackage.AssemblyInfo.cs
+C:\C--Apps\QuotePackage\QuotePackage\obj\Debug\netcoreapp3.1\QuotePackage.csproj.CoreCompileInputs.cache
+C:\C--Apps\QuotePackage\QuotePackage\bin\Debug\netcoreapp3.1\QuotePackage.exe
+C:\C--Apps\QuotePackage\QuotePackage\bin\Debug\netcoreapp3.1\QuotePackage.deps.json
+C:\C--Apps\QuotePackage\QuotePackage\bin\Debug\netcoreapp3.1\QuotePackage.runtimeconfig.json
+C:\C--Apps\QuotePackage\QuotePackage\bin\Debug\netcoreapp3.1\QuotePackage.runtimeconfig.dev.json
+C:\C--Apps\QuotePackage\QuotePackage\bin\Debug\netcoreapp3.1\QuotePackage.dll
+C:\C--Apps\QuotePackage\QuotePackage\bin\Debug\netcoreapp3.1\QuotePackage.pdb
+C:\C--Apps\QuotePackage\QuotePackage\obj\Debug\netcoreapp3.1\QuotePackage.dll
+C:\C--Apps\QuotePackage\QuotePackage\obj\Debug\netcoreapp3.1\QuotePackage.pdb
+C:\C--Apps\QuotePackage\QuotePackage\obj\Debug\netcoreapp3.1\QuotePackage.genruntimeconfig.cache
