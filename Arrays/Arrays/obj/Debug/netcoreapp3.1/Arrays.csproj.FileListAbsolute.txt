@@ -1,0 +1,14 @@
+C:\C--Apps\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\C--Apps\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\C--Apps\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\C--Apps\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+C:\C--Apps\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\C--Apps\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\C--Apps\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.AssemblyReference.cache
+C:\C--Apps\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\C--Apps\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\C--Apps\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\C--Apps\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+C:\C--Apps\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\C--Apps\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+C:\C--Apps\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache
