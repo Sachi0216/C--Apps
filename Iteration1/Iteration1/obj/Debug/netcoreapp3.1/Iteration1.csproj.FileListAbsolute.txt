@@ -1,0 +1,14 @@
+C:\C--Apps\Iteration1\Iteration1\bin\Debug\netcoreapp3.1\Iteration1.exe
+C:\C--Apps\Iteration1\Iteration1\bin\Debug\netcoreapp3.1\Iteration1.deps.json
+C:\C--Apps\Iteration1\Iteration1\bin\Debug\netcoreapp3.1\Iteration1.runtimeconfig.json
+C:\C--Apps\Iteration1\Iteration1\bin\Debug\netcoreapp3.1\Iteration1.runtimeconfig.dev.json
+C:\C--Apps\Iteration1\Iteration1\bin\Debug\netcoreapp3.1\Iteration1.dll
+C:\C--Apps\Iteration1\Iteration1\bin\Debug\netcoreapp3.1\Iteration1.pdb
+C:\C--Apps\Iteration1\Iteration1\obj\Debug\netcoreapp3.1\Iteration1.csproj.AssemblyReference.cache
+C:\C--Apps\Iteration1\Iteration1\obj\Debug\netcoreapp3.1\Iteration1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C--Apps\Iteration1\Iteration1\obj\Debug\netcoreapp3.1\Iteration1.AssemblyInfoInputs.cache
+C:\C--Apps\Iteration1\Iteration1\obj\Debug\netcoreapp3.1\Iteration1.AssemblyInfo.cs
+C:\C--Apps\Iteration1\Iteration1\obj\Debug\netcoreapp3.1\Iteration1.csproj.CoreCompileInputs.cache
+C:\C--Apps\Iteration1\Iteration1\obj\Debug\netcoreapp3.1\Iteration1.dll
+C:\C--Apps\Iteration1\Iteration1\obj\Debug\netcoreapp3.1\Iteration1.pdb
+C:\C--Apps\Iteration1\Iteration1\obj\Debug\netcoreapp3.1\Iteration1.genruntimeconfig.cache
