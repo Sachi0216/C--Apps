@@ -74,8 +74,8 @@ namespace ConsoleApp
             while (!isGuessed);
 
 
-           
-            // part three
+
+            //// part three
             int[] testscores = { 98, 99, 85, 70, 82, 34, 91, 90, 94 };
 
             for (int i = 0; i < testscores.Length; i++)
@@ -84,6 +84,9 @@ namespace ConsoleApp
                 {
                     Console.WriteLine("passing test score: " + testscores[i]);
                 }
+            }
+            for (int i = 0; i <= testscores.Length; i++)
+            {
                 if (testscores[i] <= 80)
                 {
                     Console.WriteLine("You did not pass: " + testscores[i]);
@@ -93,33 +96,43 @@ namespace ConsoleApp
 
 
             // part four
-            List<string> shonen = new List<string>() { "One Piece", "Naruto", "Seven Deadly Sins", "Naruto", "My Hero Acadamia" };
+            List<string> shonen = new List<string>() { "One Piece", "Naruto", "Seven Deadly Sins", "My Hero Acadamia" };
             Console.WriteLine("Please input text to search in the list:");
-            string input1= Console.ReadLine();
+            string input1 = Console.ReadLine();
             Console.WriteLine("You have ");
 
+            bool found = false;
+
             for (int i = 0; i < shonen.Count; i++)
             {
-                if (input1== shonen[i])
+                if (input1 == shonen[i])
                 {
                     Console.WriteLine(i + " " + shonen[i]);
-
-                }
-            }
-            int foundAt = -1;
-            for (int i = 0; i < shonen.Count; i++)
-            {
-                string lookingAt = shonen[i];
-                if (lookingAt == input1)
-                {
-                    foundAt = -1;
+                    found = true;
                     break;
                 }
-                if (foundAt == -1)
-                    Console.WriteLine("The list doesn't have the anime you're looking for");
-                else
-                    Console.WriteLine("The anime you're looking for is in list index" + foundAt + shonen);
             }
+            // flag, take action if its not found.
+            if (!found)
+            {
+                Console.WriteLine("Item not found on list");
+
+            }
+            // notes on not what to do
+            //int foundAt = -1;
+            //for (int i = 0; i < shonen.Count; i++)
+            //{
+            //    string lookingAt = shonen[i];
+            //    if (lookingAt == input1)
+            //    {
+            //        foundAt = -1;
+            //        break;
+            //    }
+            //    if (foundAt == -1)
+            //        Console.WriteLine("The list doesn't have the anime you're looking for");
+            //    else
+            //        Console.WriteLine("The anime you're looking for is in list index" + foundAt + shonen);
+            //}
             //Console.ReadLine();
             //Console.WriteLine("Please input text to search in the list: ");
             //string userItem = Console.ReadLine();
@@ -130,7 +143,7 @@ namespace ConsoleApp
             // part 5
             List<string> anShows = new List<string>() { "One Piece", "Naruto", "Seven Deadly Sins", "Naruto", "My Hero Acadamia" };
             Console.WriteLine("Enter one of the following anime shows:\nMy Hero Acadamia, \nNaruto, \nSeven Deadly Sins\n");
-            string input2= Console.ReadLine();
+            string input2 = Console.ReadLine();
 
             bool matchExists = false;
 
@@ -154,11 +167,23 @@ namespace ConsoleApp
             List<string> names = new List<string>() { "One Piece", "Naruto", "Seven Deadly Sins", "Naruto", "My Hero Acadamia" };
             List<string> empty = new List<string>();
 
+                        // foreach(string name in names)
+                        //{
+                        // if (empty.Container(name))
+                        //     Console.WriteLine("{0} has already been seen", name);
+                        // else
+                        // {
+                        //    empty.Add(name);
+                        //    Console.WriteLine("{0} has not been seen", name);
+                        // }
+                        //}
+
+                        // Console.ReadLine();
 
             foreach (string name in names)
             {
                 bool checker = false;
-                foreach(string item in empty)
+                foreach (string item in empty)
                 {
                     if (name == item)
                     {
@@ -181,4 +206,5 @@ namespace ConsoleApp
 
         }
     }
+    
 }
