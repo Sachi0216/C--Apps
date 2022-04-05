@@ -19,18 +19,18 @@ namespace ConsoleApp
             //    Console.ReadLine();
 
 
-            //string[] names = { "One Piece", "Seven Deadly Sins", "Naruto", "My Hero Acadamia" };
+            //string[] anime = { "One Piece", "Seven Deadly Sins", "Naruto", "My Hero Acadamia" };
             //Console.WriteLine("Please input some text");
             //string input = Convert.ToString(Console.ReadLine());
 
 
-            //for (int j = 0; j < names.Length; j++)
+            //for (int j = 0; j < anime.Length; j++)
             //{
-            //    names[j] += input;
+            //    anime[j] += input;
             //}
-            //for (int j = 0; j < names.Length; j++)
+            //for (int j = 0; j < anime.Length; j++)
             //{
-            //    Console.WriteLine(names[j]);
+            //    Console.WriteLine(anime[j]);
             //}
             //Console.ReadLine();
 
@@ -93,65 +93,73 @@ namespace ConsoleApp
 
 
             // part 4 list of strings
-            List<string> names = new List<string>() { "One Piece", "Naruto", "Seven Deadly Sins", "Naruto", "My Hero Acadamia" };
-            Console.WriteLine("Please input text to search in the list:");
-            string input = Console.ReadLine();
-            Console.WriteLine("You have ");
+            //List<string> shonen = new List<string>() { "One Piece", "Naruto", "Seven Deadly Sins", "Naruto", "My Hero Acadamia" };
+            //Console.WriteLine("Please input text to search in the list:");
+            //string input = Console.ReadLine();
+            //Console.WriteLine("You have ");
 
-            for(int i = 0; 0 < names.Count; i++)
-            {
-               if(input== names[i])
-                {
-                    Console.WriteLine(i + " " + names[i]);
-                    
-                }
-            }
-            Console.ReadLine();
+            //for (int i = 0; i < shonen.Count; i++)
+            //{
+            //    if (input == shonen[i])
+            //    {
+            //        Console.WriteLine(i + " " + shonen[i]);
+
+            //    }
+            //}
+            //int foundAt = -1;
+            //for (int i = 0; i < shonen.Count; i++)
+            //{
+            //    string lookingAt = shonen[i];
+            //    if(lookingAt == input)
+            //    {
+            //        foundAt = -1;
+            //        break;
+            //    }
+            //    if (foundAt == -1)
+            //        Console.WriteLine("The list doesn't have the anime you're looking for");
+            //    else
+            //        Console.WriteLine("The anime you're looking for is in list index" +foundAt + shonen);
+            //}
+            //Console.ReadLine();
             //Console.WriteLine("Please input text to search in the list: ");
             //string userItem = Console.ReadLine();
             //Console.WriteLine("You have " + userItem);
             //Console.WriteLine(names.IndexOf(userItem));
 
 
+            // part 5
+            //List<string> anShows = new List<string>() { "One Piece", "Naruto", "Seven Deadly Sins", "Naruto", "My Hero Acadamia" };
+            //Console.WriteLine("Enter one of the following anime shows:\nMy Hero Acadamia, \nNaruto, \nSeven Deadly Sins\n");
+            //string input = Console.ReadLine();
 
-            //List<int> testScores = new List<int>();
-            //testScores.Add(98);
-            //testScores.Add(96);
-            //testScores.Add(94);
-            //testScores.Add(92);
-            //testScores.Add(89);
+            //bool matchExists = false;
 
-
-            //foreach (int score in testScores)
+            //for (int i = 0; i < anShows.Count; i++)
             //{
-            //    if (score > 95)
+            //    if (anShows[i] == input)
             //    {
-            //        Console.WriteLine("Passing test score:" + score);
+            //        matchExists = true;
+            //        Console.WriteLine(i);
             //    }
             //}
-            //Console.ReadLine();
+
+            //if (matchExists == false)
+            //{
+            //    Console.WriteLine("Sorry, this is not in the list");
+            //}
+
+
 
             // part 6
-            //List<string> names = new List<string>() { "One Piece", "Naruto", "Seven Deadly Sins", "Naruto", "My Hero Acadamia" };
+            List<string> names = new List<string>() { "One Piece", "Naruto", "Seven Deadly Sins", "Naruto", "My Hero Acadamia" };
 
-            //foreach (string name in names)
-            //{
-            //    Console.WriteLine(name);
-            //}
-            //Console.ReadLine();
+            foreach (string name in names)
+            {
+                Console.WriteLine(name);
+            }
+            Console.ReadLine();
 
-            //List<int> testScores = new List<int>() { 90, 99, 74, 23, 99 };
-            //List<int> passingScore = new List<int>();
 
-            //foreach (int score in testScores)
-            //{
-            //    if (score > 85)
-            //    {
-            //        passingScore.Add(score);
-            //    }
-            //}
-            //Console.WriteLine(passingScore.Count);
-            //Console.ReadLine();
         }
     }
 }
