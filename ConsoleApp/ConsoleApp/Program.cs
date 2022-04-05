@@ -152,11 +152,30 @@ namespace ConsoleApp
 
             // part 6
             List<string> names = new List<string>() { "One Piece", "Naruto", "Seven Deadly Sins", "Naruto", "My Hero Acadamia" };
+            List<string> empty = new List<string>();
+
 
             foreach (string name in names)
             {
-                Console.WriteLine(name);
+                bool checker = false;
+                foreach(string item in empty)
+                {
+                    if (name == item)
+                    {
+                        checker = true;
+                    }
+                }
+                if (checker == false)
+                {
+                    Console.WriteLine(name);
+                    empty.Add(name);
+                }
+                else
+                {
+                    Console.WriteLine(name + " Has already appreared");
+                }
             }
+
             Console.ReadLine();
 
 
