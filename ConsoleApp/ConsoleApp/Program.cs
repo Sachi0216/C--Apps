@@ -85,7 +85,7 @@ namespace ConsoleApp
                     Console.WriteLine("passing test score: " + testscores[i]);
                 }
             }
-            for (int i = 0; i <= testscores.Length; i++)
+            for (int i = 0; i < testscores.Length; i++)
             {
                 if (testscores[i] <= 80)
                 {
