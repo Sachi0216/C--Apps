@@ -1,0 +1,14 @@
+C:\C--Apps\Strings and Integers\Strings and Integers\bin\Debug\netcoreapp3.1\Strings and Integers.exe
+C:\C--Apps\Strings and Integers\Strings and Integers\bin\Debug\netcoreapp3.1\Strings and Integers.deps.json
+C:\C--Apps\Strings and Integers\Strings and Integers\bin\Debug\netcoreapp3.1\Strings and Integers.runtimeconfig.json
+C:\C--Apps\Strings and Integers\Strings and Integers\bin\Debug\netcoreapp3.1\Strings and Integers.runtimeconfig.dev.json
+C:\C--Apps\Strings and Integers\Strings and Integers\bin\Debug\netcoreapp3.1\Strings and Integers.dll
+C:\C--Apps\Strings and Integers\Strings and Integers\bin\Debug\netcoreapp3.1\Strings and Integers.pdb
+C:\C--Apps\Strings and Integers\Strings and Integers\obj\Debug\netcoreapp3.1\Strings and Integers.csproj.AssemblyReference.cache
+C:\C--Apps\Strings and Integers\Strings and Integers\obj\Debug\netcoreapp3.1\Strings and Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\C--Apps\Strings and Integers\Strings and Integers\obj\Debug\netcoreapp3.1\Strings and Integers.AssemblyInfoInputs.cache
+C:\C--Apps\Strings and Integers\Strings and Integers\obj\Debug\netcoreapp3.1\Strings and Integers.AssemblyInfo.cs
+C:\C--Apps\Strings and Integers\Strings and Integers\obj\Debug\netcoreapp3.1\Strings and Integers.csproj.CoreCompileInputs.cache
+C:\C--Apps\Strings and Integers\Strings and Integers\obj\Debug\netcoreapp3.1\Strings and Integers.dll
+C:\C--Apps\Strings and Integers\Strings and Integers\obj\Debug\netcoreapp3.1\Strings and Integers.pdb
+C:\C--Apps\Strings and Integers\Strings and Integers\obj\Debug\netcoreapp3.1\Strings and Integers.genruntimeconfig.cache
