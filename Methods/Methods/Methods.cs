@@ -6,20 +6,25 @@ namespace Methods
 {
     public class Methods
     {
-        public int Add(int data, int Value)
+        public int Add(int Value)
         {
 
-            return data + Value;
+            return Value + 4;
         }
 
-        public int Subtract(int data, int value)
+        public int Add(decimal Value)
         {
-            return data - value;
+            return Convert.ToInt32(Value - 0.2m);
         }
-
-        public int Divide(int data, int value)
+        // type infront of method that determines type returned
+        public int Add(string data)
         {
-            return data / value;
+            // Converting string to int (declare type of integer before variable)
+            // keyword int infront of the variable declares what it is// // type which is integer
+            int newInt = Convert.ToInt32(data); 
+            
+            return Convert.ToInt32(newInt * 3); 
+        
         }
     } // all methods returning an integer
 }
