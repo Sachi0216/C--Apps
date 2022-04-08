@@ -1,0 +1,14 @@
+C:\C--Apps\Parameters1\Parameters1\bin\Debug\netcoreapp3.1\Parameters1.exe
+C:\C--Apps\Parameters1\Parameters1\bin\Debug\netcoreapp3.1\Parameters1.deps.json
+C:\C--Apps\Parameters1\Parameters1\bin\Debug\netcoreapp3.1\Parameters1.runtimeconfig.json
+C:\C--Apps\Parameters1\Parameters1\bin\Debug\netcoreapp3.1\Parameters1.runtimeconfig.dev.json
+C:\C--Apps\Parameters1\Parameters1\bin\Debug\netcoreapp3.1\Parameters1.dll
+C:\C--Apps\Parameters1\Parameters1\bin\Debug\netcoreapp3.1\Parameters1.pdb
+C:\C--Apps\Parameters1\Parameters1\obj\Debug\netcoreapp3.1\Parameters1.csproj.AssemblyReference.cache
+C:\C--Apps\Parameters1\Parameters1\obj\Debug\netcoreapp3.1\Parameters1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C--Apps\Parameters1\Parameters1\obj\Debug\netcoreapp3.1\Parameters1.AssemblyInfoInputs.cache
+C:\C--Apps\Parameters1\Parameters1\obj\Debug\netcoreapp3.1\Parameters1.AssemblyInfo.cs
+C:\C--Apps\Parameters1\Parameters1\obj\Debug\netcoreapp3.1\Parameters1.csproj.CoreCompileInputs.cache
+C:\C--Apps\Parameters1\Parameters1\obj\Debug\netcoreapp3.1\Parameters1.dll
+C:\C--Apps\Parameters1\Parameters1\obj\Debug\netcoreapp3.1\Parameters1.pdb
+C:\C--Apps\Parameters1\Parameters1\obj\Debug\netcoreapp3.1\Parameters1.genruntimeconfig.cache
