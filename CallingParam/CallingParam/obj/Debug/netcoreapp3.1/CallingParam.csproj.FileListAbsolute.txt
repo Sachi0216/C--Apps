@@ -1,0 +1,14 @@
+C:\C--Apps\CallingParam\CallingParam\bin\Debug\netcoreapp3.1\CallingParam.exe
+C:\C--Apps\CallingParam\CallingParam\bin\Debug\netcoreapp3.1\CallingParam.deps.json
+C:\C--Apps\CallingParam\CallingParam\bin\Debug\netcoreapp3.1\CallingParam.runtimeconfig.json
+C:\C--Apps\CallingParam\CallingParam\bin\Debug\netcoreapp3.1\CallingParam.runtimeconfig.dev.json
+C:\C--Apps\CallingParam\CallingParam\bin\Debug\netcoreapp3.1\CallingParam.dll
+C:\C--Apps\CallingParam\CallingParam\bin\Debug\netcoreapp3.1\CallingParam.pdb
+C:\C--Apps\CallingParam\CallingParam\obj\Debug\netcoreapp3.1\CallingParam.csproj.AssemblyReference.cache
+C:\C--Apps\CallingParam\CallingParam\obj\Debug\netcoreapp3.1\CallingParam.GeneratedMSBuildEditorConfig.editorconfig
+C:\C--Apps\CallingParam\CallingParam\obj\Debug\netcoreapp3.1\CallingParam.AssemblyInfoInputs.cache
+C:\C--Apps\CallingParam\CallingParam\obj\Debug\netcoreapp3.1\CallingParam.AssemblyInfo.cs
+C:\C--Apps\CallingParam\CallingParam\obj\Debug\netcoreapp3.1\CallingParam.csproj.CoreCompileInputs.cache
+C:\C--Apps\CallingParam\CallingParam\obj\Debug\netcoreapp3.1\CallingParam.dll
+C:\C--Apps\CallingParam\CallingParam\obj\Debug\netcoreapp3.1\CallingParam.pdb
+C:\C--Apps\CallingParam\CallingParam\obj\Debug\netcoreapp3.1\CallingParam.genruntimeconfig.cache
