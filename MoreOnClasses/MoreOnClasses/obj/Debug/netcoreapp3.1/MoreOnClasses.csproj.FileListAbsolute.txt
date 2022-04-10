@@ -1,0 +1,14 @@
+C:\C--Apps\MoreOnClasses\MoreOnClasses\bin\Debug\netcoreapp3.1\MoreOnClasses.exe
+C:\C--Apps\MoreOnClasses\MoreOnClasses\bin\Debug\netcoreapp3.1\MoreOnClasses.deps.json
+C:\C--Apps\MoreOnClasses\MoreOnClasses\bin\Debug\netcoreapp3.1\MoreOnClasses.runtimeconfig.json
+C:\C--Apps\MoreOnClasses\MoreOnClasses\bin\Debug\netcoreapp3.1\MoreOnClasses.runtimeconfig.dev.json
+C:\C--Apps\MoreOnClasses\MoreOnClasses\bin\Debug\netcoreapp3.1\MoreOnClasses.dll
+C:\C--Apps\MoreOnClasses\MoreOnClasses\bin\Debug\netcoreapp3.1\MoreOnClasses.pdb
+C:\C--Apps\MoreOnClasses\MoreOnClasses\obj\Debug\netcoreapp3.1\MoreOnClasses.csproj.AssemblyReference.cache
+C:\C--Apps\MoreOnClasses\MoreOnClasses\obj\Debug\netcoreapp3.1\MoreOnClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\C--Apps\MoreOnClasses\MoreOnClasses\obj\Debug\netcoreapp3.1\MoreOnClasses.AssemblyInfoInputs.cache
+C:\C--Apps\MoreOnClasses\MoreOnClasses\obj\Debug\netcoreapp3.1\MoreOnClasses.AssemblyInfo.cs
+C:\C--Apps\MoreOnClasses\MoreOnClasses\obj\Debug\netcoreapp3.1\MoreOnClasses.csproj.CoreCompileInputs.cache
+C:\C--Apps\MoreOnClasses\MoreOnClasses\obj\Debug\netcoreapp3.1\MoreOnClasses.dll
+C:\C--Apps\MoreOnClasses\MoreOnClasses\obj\Debug\netcoreapp3.1\MoreOnClasses.pdb
+C:\C--Apps\MoreOnClasses\MoreOnClasses\obj\Debug\netcoreapp3.1\MoreOnClasses.genruntimeconfig.cache
