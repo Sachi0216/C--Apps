@@ -10,6 +10,13 @@ namespace Class_and_Objects
     {
         static void Main(string[] args)
         {
+            Game game = new Game();
+            game.Players = new List<string>() { "Eli", "Bill", "Joe" };
+            game.ListPlayers();
+            
+            Console.ReadLine();
+
+
             Deck deck = new Deck();
 
             deck.Shuffle(3);
@@ -20,7 +27,7 @@ namespace Class_and_Objects
                 Console.WriteLine(card.Face + " of " + card.Suit);
             }
             Console.WriteLine(deck.Cards.Count);
-            
+
             Console.ReadLine();
         }
        
