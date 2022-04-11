@@ -13,7 +13,10 @@ namespace Abstract
             employee.SayName();
             Console.ReadLine();
 
-
+            
+            IQuittable quit = new Employee();
+            // calling quit method
+            quit.Quit();
 
             Console.ReadLine();
         }

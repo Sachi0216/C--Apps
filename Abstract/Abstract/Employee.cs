@@ -4,13 +4,17 @@ using System.Text;
 
 namespace Abstract
 {
-    // inheriting from person class
-    public class Employee : Person
+    // inheriting from person class/ interface 
+    // 
+    public class Employee : Person, IQuittable
     {
         public override void SayName()
         {
             Console.WriteLine(FirstName + " " + LastName);
         }
-        
+        public void Quit()
+        {
+            Console.WriteLine(" interface.");
+        }
     }
 }
