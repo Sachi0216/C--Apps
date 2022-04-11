@@ -1,0 +1,14 @@
+C:\C--Apps\Abstract\Abstract\bin\Debug\netcoreapp3.1\Abstract.exe
+C:\C--Apps\Abstract\Abstract\bin\Debug\netcoreapp3.1\Abstract.deps.json
+C:\C--Apps\Abstract\Abstract\bin\Debug\netcoreapp3.1\Abstract.runtimeconfig.json
+C:\C--Apps\Abstract\Abstract\bin\Debug\netcoreapp3.1\Abstract.runtimeconfig.dev.json
+C:\C--Apps\Abstract\Abstract\bin\Debug\netcoreapp3.1\Abstract.dll
+C:\C--Apps\Abstract\Abstract\bin\Debug\netcoreapp3.1\Abstract.pdb
+C:\C--Apps\Abstract\Abstract\obj\Debug\netcoreapp3.1\Abstract.csproj.AssemblyReference.cache
+C:\C--Apps\Abstract\Abstract\obj\Debug\netcoreapp3.1\Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\C--Apps\Abstract\Abstract\obj\Debug\netcoreapp3.1\Abstract.AssemblyInfoInputs.cache
+C:\C--Apps\Abstract\Abstract\obj\Debug\netcoreapp3.1\Abstract.AssemblyInfo.cs
+C:\C--Apps\Abstract\Abstract\obj\Debug\netcoreapp3.1\Abstract.csproj.CoreCompileInputs.cache
+C:\C--Apps\Abstract\Abstract\obj\Debug\netcoreapp3.1\Abstract.dll
+C:\C--Apps\Abstract\Abstract\obj\Debug\netcoreapp3.1\Abstract.pdb
+C:\C--Apps\Abstract\Abstract\obj\Debug\netcoreapp3.1\Abstract.genruntimeconfig.cache
