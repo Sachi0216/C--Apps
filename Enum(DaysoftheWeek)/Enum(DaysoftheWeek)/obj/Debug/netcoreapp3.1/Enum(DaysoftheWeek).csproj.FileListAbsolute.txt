@@ -1,0 +1,14 @@
+C:\C--Apps\Enum(DaysoftheWeek)\Enum(DaysoftheWeek)\bin\Debug\netcoreapp3.1\Enum(DaysoftheWeek).exe
+C:\C--Apps\Enum(DaysoftheWeek)\Enum(DaysoftheWeek)\bin\Debug\netcoreapp3.1\Enum(DaysoftheWeek).deps.json
+C:\C--Apps\Enum(DaysoftheWeek)\Enum(DaysoftheWeek)\bin\Debug\netcoreapp3.1\Enum(DaysoftheWeek).runtimeconfig.json
+C:\C--Apps\Enum(DaysoftheWeek)\Enum(DaysoftheWeek)\bin\Debug\netcoreapp3.1\Enum(DaysoftheWeek).runtimeconfig.dev.json
+C:\C--Apps\Enum(DaysoftheWeek)\Enum(DaysoftheWeek)\bin\Debug\netcoreapp3.1\Enum(DaysoftheWeek).dll
+C:\C--Apps\Enum(DaysoftheWeek)\Enum(DaysoftheWeek)\bin\Debug\netcoreapp3.1\Enum(DaysoftheWeek).pdb
+C:\C--Apps\Enum(DaysoftheWeek)\Enum(DaysoftheWeek)\obj\Debug\netcoreapp3.1\Enum(DaysoftheWeek).csproj.AssemblyReference.cache
+C:\C--Apps\Enum(DaysoftheWeek)\Enum(DaysoftheWeek)\obj\Debug\netcoreapp3.1\Enum(DaysoftheWeek).GeneratedMSBuildEditorConfig.editorconfig
+C:\C--Apps\Enum(DaysoftheWeek)\Enum(DaysoftheWeek)\obj\Debug\netcoreapp3.1\Enum(DaysoftheWeek).AssemblyInfoInputs.cache
+C:\C--Apps\Enum(DaysoftheWeek)\Enum(DaysoftheWeek)\obj\Debug\netcoreapp3.1\Enum(DaysoftheWeek).AssemblyInfo.cs
+C:\C--Apps\Enum(DaysoftheWeek)\Enum(DaysoftheWeek)\obj\Debug\netcoreapp3.1\Enum(DaysoftheWeek).csproj.CoreCompileInputs.cache
+C:\C--Apps\Enum(DaysoftheWeek)\Enum(DaysoftheWeek)\obj\Debug\netcoreapp3.1\Enum(DaysoftheWeek).dll
+C:\C--Apps\Enum(DaysoftheWeek)\Enum(DaysoftheWeek)\obj\Debug\netcoreapp3.1\Enum(DaysoftheWeek).pdb
+C:\C--Apps\Enum(DaysoftheWeek)\Enum(DaysoftheWeek)\obj\Debug\netcoreapp3.1\Enum(DaysoftheWeek).genruntimeconfig.cache
