@@ -22,24 +22,15 @@ namespace Enum_DaysoftheWeek_
             {
                 TheDaysOfTheWeek theDays = new TheDaysOfTheWeek();
                 Console.WriteLine("Please select the current day of the week?");
-
                 string daySelected = Console.ReadLine();
-
-                var TheDay = System.Enum.Parse(typeof(TheDaysOfTheWeek), daySelected);
-
-                TheDaysOfTheWeek parsedEnumValue = (TheDaysOfTheWeek)System.Enum.Parse(typeof(TheDaysOfTheWeek), daySelected);
-
-                //Console.WriteLine(System.Enum.Parse(typeof(Enum_DaysoftheWeek_.Days), daySelected));
-
-                //Console.WriteLine("Today is : ", (TheDaysOfTheWeek)System.Enum.Parse(typeof(TheDaysOfTheWeek), daySelected));
-                Console.WriteLine("Today is {0}. ", (TheDaysOfTheWeek)System.Enum.Parse(typeof(TheDaysOfTheWeek), daySelected));
-
-                //Console.WriteLine(System.Enum.GetName(typeof(Enum_DaysoftheWeek_.Days), theDays));
-
+                var day = (Days)Enum.Parse(typeof(Days), daySelected);
+                Console.WriteLine("Today is {0}. ", (Days)Enum.Parse(typeof(Days), daySelected));
+                Console.ReadLine();
             }
-            catch (FormatException e)
+            catch (SystemException e)
             {
-                Console.WriteLine("Unable to convert, Please enter an actual day of the week. ");
+                Console.WriteLine(" Please enter an actual day of the week. Thank you.");
+                Console.ReadLine();
                 return;
             }
             catch (Exception e)
