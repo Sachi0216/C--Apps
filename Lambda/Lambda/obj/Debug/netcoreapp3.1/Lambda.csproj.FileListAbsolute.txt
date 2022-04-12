@@ -1,0 +1,14 @@
+C:\C--Apps\Lambda\Lambda\bin\Debug\netcoreapp3.1\Lambda.exe
+C:\C--Apps\Lambda\Lambda\bin\Debug\netcoreapp3.1\Lambda.deps.json
+C:\C--Apps\Lambda\Lambda\bin\Debug\netcoreapp3.1\Lambda.runtimeconfig.json
+C:\C--Apps\Lambda\Lambda\bin\Debug\netcoreapp3.1\Lambda.runtimeconfig.dev.json
+C:\C--Apps\Lambda\Lambda\bin\Debug\netcoreapp3.1\Lambda.dll
+C:\C--Apps\Lambda\Lambda\bin\Debug\netcoreapp3.1\Lambda.pdb
+C:\C--Apps\Lambda\Lambda\obj\Debug\netcoreapp3.1\Lambda.csproj.AssemblyReference.cache
+C:\C--Apps\Lambda\Lambda\obj\Debug\netcoreapp3.1\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\C--Apps\Lambda\Lambda\obj\Debug\netcoreapp3.1\Lambda.AssemblyInfoInputs.cache
+C:\C--Apps\Lambda\Lambda\obj\Debug\netcoreapp3.1\Lambda.AssemblyInfo.cs
+C:\C--Apps\Lambda\Lambda\obj\Debug\netcoreapp3.1\Lambda.csproj.CoreCompileInputs.cache
+C:\C--Apps\Lambda\Lambda\obj\Debug\netcoreapp3.1\Lambda.dll
+C:\C--Apps\Lambda\Lambda\obj\Debug\netcoreapp3.1\Lambda.pdb
+C:\C--Apps\Lambda\Lambda\obj\Debug\netcoreapp3.1\Lambda.genruntimeconfig.cache
