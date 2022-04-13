@@ -34,20 +34,38 @@ namespace Lambda
             Employee emp10 = new Employee(10, "Tiger", "King");
             employees.Add(emp10);
 
-            // new list
-            List<Employee> joes = employees.Where(x => x.FirstName == "Joe").ToList();
-            foreach (Employee employee in joes)
+
+            //step 2, a new list of all employees with the first name joe, using foreach loop
+            List< string > joes = new List<string>();
+            foreach (Employee employee in employees)
             {
-                Console.WriteLine(employee.FirstName + " " + employee.LastName);
+                if (employee.FirstName == "Joe")
+                {
+                    joes.Add(employee.FirstName + " " + employee.LastName);
+                }
             }
-            Console.ReadLine();
+            foreach (var i in joes)
+            {
+                Console.WriteLine(i);
+            }
+
             
-            // new list by ID
-            List<Employee> g5 = employees.Where(x => x.empID > 5).ToList();
-            foreach (Employee employee in g5)
-            {
-                Console.WriteLine(employee.empID + " " + employee.FirstName + " " + employee.LastName);
-            }
+
+
+            // new list
+            //List<Employee> joes = employees.Where(x => x.FirstName == "Joe").ToList();
+            //foreach (Employee employee in joes)
+            //{
+            //    Console.WriteLine(employee.FirstName + " " + employee.LastName);
+            //}
+            //Console.ReadLine();
+            
+            //// new list by ID
+            //List<Employee> g5 = employees.Where(x => x.empID > 5).ToList();
+            //foreach (Employee employee in g5)
+            //{
+            //    Console.WriteLine(employee.empID + " " + employee.FirstName + " " + employee.LastName);
+            //}
 
             Console.ReadLine();
 
