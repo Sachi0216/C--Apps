@@ -1,0 +1,13 @@
+C:\C--Apps\TheConstProject\bin\Debug\netcoreapp3.1\TheConstProject.exe
+C:\C--Apps\TheConstProject\bin\Debug\netcoreapp3.1\TheConstProject.deps.json
+C:\C--Apps\TheConstProject\bin\Debug\netcoreapp3.1\TheConstProject.runtimeconfig.json
+C:\C--Apps\TheConstProject\bin\Debug\netcoreapp3.1\TheConstProject.runtimeconfig.dev.json
+C:\C--Apps\TheConstProject\bin\Debug\netcoreapp3.1\TheConstProject.dll
+C:\C--Apps\TheConstProject\bin\Debug\netcoreapp3.1\TheConstProject.pdb
+C:\C--Apps\TheConstProject\obj\Debug\netcoreapp3.1\TheConstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\C--Apps\TheConstProject\obj\Debug\netcoreapp3.1\TheConstProject.AssemblyInfoInputs.cache
+C:\C--Apps\TheConstProject\obj\Debug\netcoreapp3.1\TheConstProject.AssemblyInfo.cs
+C:\C--Apps\TheConstProject\obj\Debug\netcoreapp3.1\TheConstProject.csproj.CoreCompileInputs.cache
+C:\C--Apps\TheConstProject\obj\Debug\netcoreapp3.1\TheConstProject.dll
+C:\C--Apps\TheConstProject\obj\Debug\netcoreapp3.1\TheConstProject.pdb
+C:\C--Apps\TheConstProject\obj\Debug\netcoreapp3.1\TheConstProject.genruntimeconfig.cache
