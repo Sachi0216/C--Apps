@@ -17,9 +17,8 @@ namespace TheConstProject
 
             const string myIdentity = "Elijah Davis";
             Console.WriteLine("Hello, {0}.", myIdentity);
-            var identity = new Identity();
-            identity.id = 105579;
-            identity.name = "Eli";
+            var identity = new Identity(105579);
+            
             Console.WriteLine(identity.id);
             Console.WriteLine(identity.name);
             Console.ReadLine();
