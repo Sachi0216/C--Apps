@@ -11,17 +11,18 @@ namespace TheConstProject
 
         public Identity(string studentName, int Id)
         {
-
+            this.name = studentName;
+            this.id = Id;
         }
-        public Identity(string name) : this(name, 1234)
+        public Identity(string studentName) : this(studentName, 1234)
         {
 
-            this.name = name;
+            this.name = studentName;
 
         }
-        public Identity(int id) : this("R2D2", id)
+        public Identity(int Id) : this("R2D2", Id)
         {
-            this.id = id;
+            this.id = Id;
         }
 
         public Identity()

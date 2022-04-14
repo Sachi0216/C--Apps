@@ -11,3 +11,4 @@ C:\C--Apps\TheConstProject\obj\Debug\netcoreapp3.1\TheConstProject.csproj.CoreCo
 C:\C--Apps\TheConstProject\obj\Debug\netcoreapp3.1\TheConstProject.dll
 C:\C--Apps\TheConstProject\obj\Debug\netcoreapp3.1\TheConstProject.pdb
 C:\C--Apps\TheConstProject\obj\Debug\netcoreapp3.1\TheConstProject.genruntimeconfig.cache
+C:\C--Apps\TheConstProject\obj\Debug\netcoreapp3.1\TheConstProject.csproj.AssemblyReference.cache
